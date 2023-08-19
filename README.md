@@ -10,6 +10,8 @@ Install Node js From [Here](https://nodejs.org/en)
 
 ```bash
   git clone https://github.com/mridul404/DL_Net_Visualize.git
+  cd DL_Net_Visualize/frontend
+  
   npm install 
   npm run dev
   # or
